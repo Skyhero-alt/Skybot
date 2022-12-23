@@ -39,7 +39,7 @@ python Skybot.py
 
 **Project made by:**
 
-<a href="https://github.com/Skyhero-admin/Skybot/graphs/contributors">
-<img src="https://contrib.rocks/image?repo=Skyhero-admin/Skybot">
+<a href="https://github.com/Skyhero-alt/Skybot/graphs/contributors">
+<img src="https://contrib.rocks/image?repo=Skyhero-alt/Skybot">
 </a>
 
