@@ -5,7 +5,7 @@ This is a <b>Game-bot</b> with server moderation features
 ### **The bot can play the following games for now:-**
 - **Connect4**</br>
 To play Connect-4 with a friend, type `,play @(username)` or `,p @(username)`
-<img src="https://media.discordapp.net/attachments/858296108593315843/916650159964827648/Peek_2021-12-04_16-47.gif?ex=6829c27c&is=682870fc&hm=ef27d1ebe150c1c6fa93268fa4d9104189293493f65e76a2b57f5c31ac440b2e&=">
+<img src="skybot.gif">
 
 ### **The bot prefix is `,`**
 
